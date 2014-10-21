@@ -1,0 +1,17 @@
+{
+  "name": "beergeek-array_functions",
+  "version": "0.1.0",
+  "author": "beergeek",
+  "summary": "Some array functions",
+  "license": "Apache 2.0",
+  "source": "https://github.com/beergeek/array_functions.git",
+  "project_page": "https://github.com/beergeek/array_functions",
+  "issues_url": "https://github.com/beergeek/array_functions/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
